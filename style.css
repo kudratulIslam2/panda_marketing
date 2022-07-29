@@ -1,0 +1,13 @@
+.funda-bg-info {
+    background-color: #fceae8 !important;
+}
+.catagories img{
+width: 120px;
+}
+.funda-btn-now{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+}
